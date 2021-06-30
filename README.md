@@ -1,4 +1,4 @@
-# Maximise Active Pane Plugin
+# Command URI Plugin
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/deathau/command-uri-obsidian?style=for-the-badge&sort=semver)](https://github.com/deathau/command-uri-obsidian/releases/latest)
 ![GitHub All Releases](https://img.shields.io/github/downloads/deathau/command-uri-obsidian/total?style=for-the-badge)
 
